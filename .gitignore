@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
